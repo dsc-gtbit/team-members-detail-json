@@ -1,12 +1,12 @@
 {
-  team: [
+  "team": [
     {
-      name: "Raghav Dhingra",
-      designation: "Former GDSC Lead 2020",
+      "name": "Raghav Dhingra",
+      "designation": "Former GDSC Lead 2020",
     },
     {
-      name: "Kushdeep Singh",
-      designation: "Core Manamgement Mentor"
+      "name": "Kushdeep Singh",
+      "designation": "Core Manamgement Mentor"
     }
   ]
 }
